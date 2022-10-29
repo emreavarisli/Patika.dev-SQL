@@ -1,0 +1,4 @@
+SELECT COUNT (*) FROM CITY
+WHERE city LIKE 'R%' OR city LIKE 'r%';
+
+--DISTINCT ve COUNT
